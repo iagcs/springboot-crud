@@ -1,6 +1,6 @@
 package com.example.springboot.controllers;
 
-import com.example.springboot.ProductRepository;
+import com.example.springboot.repositories.ProductRepository;
 import com.example.springboot.dtos.ProductRecordDTO;
 import com.example.springboot.models.ProductModel;
 import jakarta.validation.Valid;
